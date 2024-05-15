@@ -1,0 +1,35 @@
+body {
+    background-color: gray;
+}
+
+.line {
+    height: 5px;
+    background-color: black;
+    margin-top: 5px;
+}
+
+#games {
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 20%;
+}
+
+p {
+    background-color: rgba(240, 255, 255, 0.512);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#make {
+    height: 20px;
+    width: 250px;
+}
+
+.Box {
+    border: 5px;
+    border-color: black;
+}
+
+.check{
+    float: right;
+}
